@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+title: Classic Works Seminar
+description: Home page of the Classic Works Seminar (EEB 6485, UConn EEB)
+
+theme: minima
+
+header_pages:
+ - schedule.md
