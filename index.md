@@ -9,8 +9,35 @@ This semester we are reading classic works in evolutionary biology and systemati
 
 If you need a **permission number** for this course, or to be added to the **mailing list**, or to obtain the **password** for accessing papers linked to this page, contact [Kurt Schwenk](mailto:kurt.schwenk@uconn.edu).
 
-### Monday, 24 January 2022
+---
 
-Kurt says: For Monday's Zoom meeting please read two documents, [Lamarck_1809_Ch7.pdf](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Lamarck_1809_Ch7.pdf) and [PaleyNaturalTheology1802EXCERPT.pdf](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/PaleyNaturalTheology1802EXCERPT.pdf), that establish the context in which Darwin was developing his ideas—William Paley's faith-based notions of a divine Creator and the fixity of species, and the evolutionary theory of Lamarck (inheritance of acquired characters).
+### Jan. 24
 
-The readings are excerpts only.  Although it might seem like a lot of pages, they are very easy to read and should not take much time.  Please ignore the various red boxes and notes in the Paley document—I added these when I originally read it for some reason or other.
+* [Lamarck_1809_Ch7.pdf](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Lamarck_1809_Ch7.pdf)
+* [PaleyNaturalTheology1802EXCERPT.pdf](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/PaleyNaturalTheology1802EXCERPT.pdf)
+
+---
+  
+### Jan. 31
+
+Darwin's and Wallace's 1858 Linnean Society Texts:
+
+* [original](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/DarwinWallaceORIG1858.pdf)
+
+Optional:
+
+* [Ghiselin commentary](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/DarwinWallaceGhiselinPreface1858.pdf)
+
+{% comment %}
+[Visualization](http://benfry.com/traces/): a graphic representation of the changes to "On the Origin of Species" through its six editions
+
+Owen's (anonymous) review of the Origin link Wallace Appreciations:
+
+* [Red-hot radical](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Evolution%E2%80%99s%20red-hot%20radical.pdf)
+* [Biographer](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Knapp_WallaceBiogeographyFounder_Science2013.pdf)
+ 
+Wallace-Darwin similarities: more than a coincidence?
+
+* [Davies](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Davies_DarwinWallaceNonidenpendence_BiolJLinnSoc2013.pdf)
+* [Smith](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Smith_Wallace-DarwinMail_BiolJLinnSoc2013.pdf)
+{% endcomment %}
