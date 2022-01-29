@@ -22,7 +22,8 @@ If you need a **permission number** for this course, or to be added to the **mai
 
 Darwin's and Wallace's 1858 Linnean Society Texts:
 
-* [original](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/DarwinWallaceORIG1858.pdf)
+* [original (OCR'd image)](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/DarwinWallaceORIG1858.pdf)
+* [original (text)](http://darwin-online.org.uk/content/frameset?pageseq=1&itemID=F350&viewtype=text)
 
 Optional:
 
