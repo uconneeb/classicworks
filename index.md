@@ -42,3 +42,10 @@ Wallace-Darwin similarities: more than a coincidence?
 * [Davies](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Davies_DarwinWallaceNonidenpendence_BiolJLinnSoc2013.pdf)
 * [Smith](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Smith_Wallace-DarwinMail_BiolJLinnSoc2013.pdf)
 {% endcomment %}
+
+---
+  
+### Feb. 7
+
+* [Wright's 1932 adaptive landscapes paper](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/WrightAdaptiveLandscape1932.pdf)
+
