@@ -5,7 +5,7 @@ This is the home page of the [UConn EEB department](https://eeb.uconn.edu)'s Sem
 
 ## Spring 2022
 
-This semester we are reading classic works in evolutionary biology and systematics. We are meeting this semester on **Mondays at 12:20-1:10** (online, at least initially). 
+This semester we are reading classic works in evolutionary biology and systematics. We are meeting this semester on **Mondays at 12:20-1:10.** 
 
 If you need a **permission number** for this course, or to be added to the **mailing list**, or to obtain the **password** for accessing papers linked to this page, contact [Kurt Schwenk](mailto:kurt.schwenk@uconn.edu).
 
