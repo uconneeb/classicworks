@@ -27,7 +27,7 @@ Darwin's and Wallace's 1858 Linnean Society Texts:
 
 Optional:
 
-* [Ghiselin commentary](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/DarwinWallaceGhiselinPreface1858.pdf)
+* [Reprinted text with commentary by Michael Ghiselin](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/DarwinWallaceGhiselinPreface1858.pdf)
 
 {% comment %}
 [Visualization](http://benfry.com/traces/): a graphic representation of the changes to "On the Origin of Species" through its six editions
