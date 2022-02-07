@@ -47,5 +47,7 @@ Wallace-Darwin similarities: more than a coincidence?
   
 ### Feb. 7
 
-* [Wright's 1932 adaptive landscapes paper](http://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/WrightAdaptiveLandscape1932.pdf)
+* [Wright's 1932 adaptive landscapes paper](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/WrightAdaptiveLandscape1932.pdf)
 
+### Feb. 14
+* to be named
