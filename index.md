@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-This is the home page of the [UConn EEB department](https://eeb.uconn.edu)'s Seminar in Comparative Biology (EEB 6485): Classic Works in Evolutionary Biology
+This is the home page of the [UConn EEB department](https://eeb.uconn.edu)'s Seminar in Comparative Biology (EEB 6485): **Classic Works in Evolutionary Biology**
 
 ## Spring 2022
 
