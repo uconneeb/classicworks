@@ -50,4 +50,6 @@ Wallace-Darwin similarities: more than a coincidence?
 * [Wright's 1932 adaptive landscapes paper](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/WrightAdaptiveLandscape1932.pdf)
 
 ### Feb. 14
-* to be named
+* [Dobzhansky, ch. 8, isolating mechanisms, excerpt](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Dobzhansky_1937_Ch8_IsolatingMechanisms.pdf)
+* [Dobzhansky, Hybrid sterility, read 'The problem' and 'Discussion'](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Dobzhansky_HybridSterilityII_Genetics1936.pdf)
+* [Dobzhansky, Species differences, read 'Introduction' and 'Summary'](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Dobzhansky_GeneticNatureSpeciesDiffs_AmNat1937.pdf)
