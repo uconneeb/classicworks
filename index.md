@@ -61,7 +61,7 @@ Wallace-Darwin similarities: more than a coincidence?
 
 ### Feb. 21
 
-* TBD
+* [Simpson (1953) *Major Features of Evolution*, excerpt](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/SimpsonMajorFeatures1953WithNoteOPT.pdf)
 
 ---
 
