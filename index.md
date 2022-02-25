@@ -67,7 +67,7 @@ Wallace-Darwin similarities: more than a coincidence?
 
 ### Feb. 28
 
-* [Simpson (1953) *Major Features of Evolution*, excerpt](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Mayr1963_GeneticRevolution.pdf)
+* [Simpson (1963) *Major Features of Evolution*, excerpt](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Mayr1963_GeneticRevolution.pdf)
 
 
 
