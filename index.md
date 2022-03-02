@@ -71,5 +71,28 @@ Wallace-Darwin similarities: more than a coincidence?
 
 ---
 
+* [Hennig (1965)](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Hennig_1965.pdf)
 
+---
 
+* [Kimura (1968)](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/Kimura1968.pdf)
+
+---
+
+* [Van Valen (1973)](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/VanValenNewEvolutionaryLaw73.pdf)
+
+---
+
+* [Van Valen (1973)](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/VanValenNewEvolutionaryLaw73.pdf)
+
+---
+
+* [Gould & Lewontin (1979)](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/GouldLewontinSpandrels79.pdf)
+
+---
+
+* [Felsenstein (1985)](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/FelsensteinPhylogCompMethod85.pdf)
+
+---
+
+* [Grant & Grant (2002)](https://hydrodictyon.eeb.uconn.edu/courses/EEB6485/restricted/GrantGrantUnpredictEvol02.pdf)
